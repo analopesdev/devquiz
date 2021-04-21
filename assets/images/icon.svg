@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 271 271">
+    <defs>
+        <linearGradient id="a" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#fff" />
+            <stop offset="0" stop-color="#7b96f1" />
+            <stop offset="0.682" stop-color="#8c96ec" stop-opacity="0.898" />
+            <stop offset="0.879" stop-color="#c7abf1" stop-opacity="0.82" />
+            <stop offset="1" stop-color="#d497d8" stop-opacity="0.451" />
+        </linearGradient>
+    </defs>
+    <g transform="translate(-453 -330)">
+        <g transform="translate(-1 -2)">
+            <circle cx="135.5" cy="135.5" r="135.5" transform="translate(454 332)" fill="url(#a)" />
+            <path
+                d="M132.263,157.712a78.491,78.491,0,0,1-27.6-4.964V115.007a48.327,48.327,0,0,0,27.6,8.534c26.089,0,47.314-20.34,47.314-45.342s-21.225-45.342-47.314-45.342c-18.329,0-35.18,10.318-42.929,26.285H55.887a78.908,78.908,0,1,1,76.377,98.57Z"
+                transform="translate(628.141 621.66) rotate(-135)" fill="#fff" />
+            <rect width="31" height="74" rx="9" tansform="translate(605.601 498.347) rotate(-60)"
+                fill="#fff" />
+        </g>
+    </g>
+</svg>
